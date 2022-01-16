@@ -1,0 +1,6 @@
+#this pragram is for addition of 2 numbers
+print("input first number")
+n1=input()
+print("input second number")
+n2=input()
+print"sum of eneetred value is",(int(n1) + int(n2))
